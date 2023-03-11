@@ -14,7 +14,9 @@ spring:
       ddl-auto: update
     show-sql: true
 
+
 # ddl-auto property will generate the table corr. to the entity
+
 
 # No need to set the dialect and driver-class-name as well
 

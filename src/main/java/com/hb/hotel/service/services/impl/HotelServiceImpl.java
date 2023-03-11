@@ -34,7 +34,6 @@ public class HotelServiceImpl implements HotelService
     }
 
 
-
     @Override
     public Hotel getHotel(String hotelId)
     {
